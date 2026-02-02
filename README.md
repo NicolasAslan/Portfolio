@@ -18,6 +18,8 @@ Ce repository regroupe des travaux réalisés dans un contexte “proche du rée
 
 ## 🎯 Dashboard Tableau (interactif + onglets)
 
+[![Aperçu du dashboard Tableau](assets/Tableau.png)](https://nicolasaslan.github.io/Portfolio/)
+
 🌐 Version intégrée (GitHub Pages) : https://nicolasaslan.github.io/Portfolio/
 
 🔗 Version Tableau Public :

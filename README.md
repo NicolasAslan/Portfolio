@@ -16,9 +16,11 @@ Ce repository regroupe des travaux réalisés dans un contexte “proche du rée
 
 # 🚲 Projet fil rouge — Analyse du trafic cycliste à Paris
 
-## 🎯 Dashboard Tableau (interactif + onglets)
+## 🎯 Dashboard Tableau
 
-[![Aperçu du dashboard Tableau](assets/Tableau.png)](https://nicolasaslan.github.io/Portfolio/). Vous pouvez cliquer sur l'image pour vous rendre sur le tableau de bord.
+Vous pouvez cliquer sur l'image pour vous rendre sur le tableau de bord et naviguer entre les onglets.
+
+[![Aperçu du dashboard Tableau](assets/Tableau.png)](https://nicolasaslan.github.io/Portfolio/)
 
 # Objectif : guider la prise de décision pour favoriser une meilleure circulation des cyclistes dans la ville. 
 

@@ -18,12 +18,7 @@ Ce repository regroupe des travaux réalisés dans un contexte “proche du rée
 
 ## 🎯 Dashboard Tableau (interactif + onglets)
 
-[![Aperçu du dashboard Tableau](assets/Tableau.png)](https://nicolasaslan.github.io/Portfolio/)
-
-🌐 Version intégrée (GitHub Pages) : https://nicolasaslan.github.io/Portfolio/
-
-🔗 Version Tableau Public :
-https://public.tableau.com/views/ProjetDataScientest-NicolasAslanetAlexisHaas-TraficcyclisteParis/Introduction?:language=fr-FR&:display_count=n&:origin=viz_share_link
+[![Aperçu du dashboard Tableau](assets/Tableau.png)](https://nicolasaslan.github.io/Portfolio/). Vous pouvez cliquer sur l'image pour vous rendre sur le tableau de bord.
 
 # Objectif : guider la prise de décision pour favoriser une meilleure circulation des cyclistes dans la ville. 
 

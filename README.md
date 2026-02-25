@@ -22,6 +22,12 @@ Vous pouvez cliquer sur l'image pour vous rendre sur le tableau de bord et navig
 
 [![Aperçu du dashboard Tableau](assets/Tableau.png)](https://nicolasaslan.github.io/Portfolio/)
 
+### 📓 Colab Notebook de pipeline de traitement des données pour l'export vers Tableau
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tjRdyhWRxW3NkEwUw66CY72w892wURkM)
+
+👉 Accéder au notebook : https://colab.research.google.com/drive/1tjRdyhWRxW3NkEwUw66CY72w892wURkM
+
 # Objectif : guider la prise de décision pour favoriser une meilleure circulation des cyclistes dans la ville. 
 
 Ce projet inclut notamment :

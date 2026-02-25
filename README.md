@@ -1,6 +1,6 @@
 # 👋 Présentation
 
-Vous trouverez sur mon GitHub les différents examens ainsi que le projet fil rouge issus de ma formation Data Analyst (Liora by DataScientest x École des Mines de Paris), réalisée entre avril et décembre 2025. J’aime transformer des données brutes en KPIs, datavisualisations et recommandations concrètes, compréhensibles par des équipes non techniques. Mon parcours mêle analyse et storytelling (issu de mon expérience en journalisme et data sport). 
+Vous trouverez sur mon GitHub le projet fil rouge issus de ma formation Data Analyst (Liora by DataScientest x École des Mines de Paris), réalisée entre avril et décembre 2025. J’aime transformer des données brutes en KPIs, datavisualisations et recommandations concrètes, compréhensibles par des équipes non techniques. Mon parcours mêle analyse et storytelling (issu de mon expérience en journalisme et data sport). 
 
 # 🧩 Mise en situation
 
@@ -25,6 +25,7 @@ Vous pouvez cliquer sur l'image pour vous rendre sur le tableau de bord et navig
 ### 📓 Colab Notebook de pipeline de traitement des données pour l'export vers Tableau
 
 Vous pouvez cliquer sur l'image pour vous rendre sur le Colab et faire défiler les lignes de code.
+
 
 [![Aperçu du notebook](assets/Colab%20Notebook.png)](https://colab.research.google.com/drive/1tjRdyhWRxW3NkEwUw66CY72w892wURkM)
 

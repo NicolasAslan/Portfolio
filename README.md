@@ -24,7 +24,7 @@ Vous pouvez cliquer sur l'image pour vous rendre sur le tableau de bord et navig
 
 ### 📓 Colab Notebook de pipeline de traitement des données pour l'export vers Tableau
 
-[![Aperçu du notebook](assets/Colab Notebook.png)](https://colab.research.google.com/drive/1tjRdyhWRxW3NkEwUw66CY72w892wURkM)
+[![Aperçu du notebook](assets/Colab%20Notebook.png)](https://colab.research.google.com/drive/1tjRdyhWRxW3NkEwUw66CY72w892wURkM)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tjRdyhWRxW3NkEwUw66CY72w892wURkM)
 
